@@ -1,6 +1,6 @@
 # SLOT-Align: Distribution Alignment for One-Shot Federated Learning via Optimal Transport
 
-[![Conference](https://img.shields.io/badge/ICML-2026-blue.svg)](https://icml.cc/)
+[![Conference](https://img.shields.io/badge/ICML-2026-blue.svg)](https://icml.cc/virtual/2026/poster/64658)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-b31b1b.svg)](https://openreview.net/forum?id=LChZtIOER6)
 [![Code](https://img.shields.io/badge/Code-Coming%20Soon-lightgrey.svg)](#code-release)
 
@@ -10,7 +10,7 @@ Official repository for the ICML 2026 regular paper:
 > Daniele Berardini, Vito Paolo Pastore, Vittorio Murino  
 > *Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026.*
 
-[[Paper]](https://openreview.net/forum?id=LChZtIOER6)
+[[Paper]](https://openreview.net/forum?id=LChZtIOER6) [Coming soon...]
 
 ## Overview
 
