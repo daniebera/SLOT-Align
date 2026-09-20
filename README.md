@@ -11,7 +11,8 @@ Official repository for the ICML 2026 regular paper:
 > Daniele Berardini, Vito Paolo Pastore, Vittorio Murino  
 > *Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026.*
 
-[[Paper]](https://openreview.net/forum?id=LChZtIOER6)
+[[OpenReview]](https://openreview.net/forum?id=LChZtIOER6)
+[[arXiv]](https://arxiv.org/abs/2606.16655)
 
 ## Overview
 
@@ -216,11 +217,15 @@ Please refer to the paper for the complete experimental protocol, quantitative c
 
 If you find this work useful, please cite:
 
-> Daniele Berardini, Vito Paolo Pastore, and Vittorio Murino.  
-> **Distribution Alignment for One-Shot Federated Learning via Optimal Transport.**  
-> Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026.
-
-BibTeX will be added soon.
+```bibtex
+@inproceedings{
+berardini2026distribution,
+title={Distribution Alignment for One-Shot Federated Learning via Optimal Transport},
+author={Daniele Berardini and Vito Paolo Pastore and Vittorio Murino},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=LChZtIOER6}
+}
 
 ## License
 
