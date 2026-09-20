@@ -5,5 +5,4 @@ torch>=2.1
 torchvision>=0.16
 open-clip-torch>=2.24
 Pillow>=9.5
-pytest>=7.4
 tqdm>=4.66
