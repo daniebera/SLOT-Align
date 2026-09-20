@@ -31,17 +31,13 @@ SLOT-Align follows three main steps:
 
 For a client transport map
 
-\[
-T_k(z) = A_k z + b_k,
-\]
+$$T_k(z) = A_k z + b_k$$
 
 SLOT-Align applies the partial transport
 
-\[
-T_k^{(\tau)}(z) = (1-\tau)z + \tau T_k(z),
-\]
+$$T_k^{(\tau)}(z) = (1-\tau)z + \tau T_k(z),$$
 
-where \(\tau\in[0,1]\) controls the alignment strength.
+where $\tau \in [0,1]$ controls the alignment strength.
 
 Please refer to the paper for the complete formulation and theoretical discussion.
 
