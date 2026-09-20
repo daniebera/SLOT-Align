@@ -1,0 +1,22 @@
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Generated pipeline artifacts
+artifacts/
+data/
+models/
+results/
+logs/
+
+# Local environments and editor state
+.venv/
+venv/
+.vscode/
+
+# Misc
+
+paper/
+AGENTS.md
