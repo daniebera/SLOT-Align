@@ -226,6 +226,7 @@ booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
 url={https://openreview.net/forum?id=LChZtIOER6}
 }
+```
 
 ## License
 
