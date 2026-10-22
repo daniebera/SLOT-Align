@@ -71,10 +71,10 @@ def parse_args() -> argparse.Namespace:
         default=0.0,
         help="Lower schedule bound; historical default is 0.0.",
     )
-    parser.add_argument("--optimizer", choices=("sgd", "adam"), default="sgd")
+    parser.add_argument("--optimizer", choices=("sgd", "adam"), default="adam")
     parser.add_argument("--learning-rate", type=float, default=1e-3)
     parser.add_argument("--batch-size", type=int, default=64)
-    parser.add_argument("--local-epochs", type=int, default=10)
+    parser.add_argument("--local-epochs", type=int, default=500)
     parser.add_argument("--communication-rounds", type=int, default=1)
     parser.add_argument("--runs", type=int, default=5)
     parser.add_argument("--seed", type=int, default=0)
